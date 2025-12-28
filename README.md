@@ -447,10 +447,10 @@ Sorularınız ve sorunlarınız için:
 
 ## 📸 Ekran Görüntüleri
 
-![First Page](firstpage.jpg)
-![Second Page](secondpage.jpg)
-![Third Page](thirdpage.jpg)
-![Last Page](lastpage.jpg)
+<img src="firstpage.jpg" width="300"/>
+<img src="secondpage.jpg"  width="300"/>
+<img src="thirdpage.jpg"  width="300"/>
+<img src="lastpage.jpg"  width="300"/>
 
 ---
 
